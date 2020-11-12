@@ -41,7 +41,7 @@ videoIdDictionary = {}
 
 
 #Process all transcripts
-nrOfTranscriptsToProcess = 100 #len(videosName)
+nrOfTranscriptsToProcess = len(videosName)
 
 
 
